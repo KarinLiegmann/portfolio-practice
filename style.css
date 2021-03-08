@@ -309,7 +309,6 @@ header {
     position: relative;
 }
 
-/* Strich unter dem Titel */
 .section__title--services::after {
     content: '';
     display: block;
